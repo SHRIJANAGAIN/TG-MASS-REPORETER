@@ -1,4 +1,4 @@
-# TG-MASS-REPORETER
+# TG-MASS-REPORETER 🔥😈
 
 A Python-based tool to automate mass reporting of Telegram channels or accounts using multiple Telegram accounts. Supports reporting for spam, violence, or other violations. **Use responsibly and at your own risk**, as mass reporting may violate Telegram's [Terms of Service](https://telegram.org/tos) and lead to account bans.
 
@@ -22,6 +22,12 @@ A Python-based tool to automate mass reporting of Telegram channels or accounts 
    python telegram_login_report.py
 
 
+ # Important Warnings Risk of Bans: Mass reporting may lead to Telegram accounts being restricted or banned. 😈
+ 
+ # Use cautiously and only for legitimate purposes.Compliance: Ensure actions comply with Telegram's Terms of Service.🔥
+ 
+ # Educational Purpose: This tool is for educational purposes only. The developer is not responsible for misuse or consequences.🔥
+
 # Accounts.json File Input Data 
 ```
 [
@@ -37,8 +43,5 @@ A Python-based tool to automate mass reporting of Telegram channels or accounts 
     }
 ]
 
- # Important Warnings Risk of Bans: Mass reporting may lead to Telegram accounts being restricted or banned. 
- 
- # Use cautiously and only for legitimate purposes.Compliance: Ensure actions comply with Telegram's Terms of Service.
- 
- # Educational Purpose: This tool is for educational purposes only. The developer is not responsible for misuse or consequences.
+
+
